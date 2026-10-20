@@ -51,8 +51,7 @@
 ###
 <br clear="both">
 
-<div data-importer="stats" align="right">
-  <img src="https://raw.githubusercontent.com/noanzaqueu-ai/noanzaqueu-ai/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/noanzaqueu-ai/noanzaqueu-ai/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://raw.githubusercontent.com/noanzaqueu-ai/noanzaqueu-ai/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/noanzaqueu-ai/noanzaqueu-ai/main/profile/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/noanzaqueu-ai/noanzaqueu-ai/main/profile/top-langs.svg" height="150" alt="languages graph"  />
 </div>
