@@ -1,10 +1,10 @@
 <h1 data-importer="text" align="left">About Me</h1>
 
-###
+#
 
 <h4 data-importer="text" align="left">My name is Zaqueu Noan, I am 19 years old, and I am just beginning my journey into the world of technology. I have always been driven by a desire to learn, and I am currently starting my studies in Information Systems — a field I am truly passionate about. I look forward to continuous learning. This GitHub repository will showcase my development and the evolution of my code throughout this journey.</h4>
 
-###
+#
 
 <h1 data-importer="text" align="left">I code with</h1>
 
